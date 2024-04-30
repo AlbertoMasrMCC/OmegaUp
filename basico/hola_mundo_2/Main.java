@@ -1,4 +1,6 @@
-// https://omegaup.com/arena/problem/Hola-Mundo-c/
+package basico.hola_mundo_2;
+
+// https://omegaup.com/arena/problem/CR-Hola-mundo/
 
 import java.io.IOException;
 
